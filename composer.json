@@ -10,12 +10,12 @@
   "authors": [
     {
       "name": "forsaken628",
-      "email": "forsaken628@gmail.com",
+      "email": "forsaken628@gmail.com"
     }
   ],
   "require": {
     "php": ">=5.6.0",
-    "nesbot/carbon": "*"
+    "nesbot/carbon": "~1.20"
   },
   "autoload": {
     "psr-4": {
