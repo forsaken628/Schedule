@@ -1,0 +1,25 @@
+{
+  "name": "forsaken628/schedule",
+  "type": "library",
+  "description": "A simple API extension for DateTime.",
+  "support": {
+    "issues": "https://github.com/forsaken628/Schedule/issues",
+    "source": "https://github.com/forsaken628/Schedule"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "forsaken628",
+      "email": "forsaken628@gmail.com",
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0",
+    "nesbot/carbon": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Schedule\\": "src/"
+    }
+  }
+}
